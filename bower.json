@@ -1,0 +1,14 @@
+{
+    "name": "ez-profiling",
+    "version": "1.0.0",
+    "dependencies": {
+        "jquery": "2.2.4",
+        "backbone-amd" : "1.1.0",
+        "underscore-amd" : "1.5.2",
+        "requirejs": "2.2.0",
+        "marionette": "2.4.7",
+        "noty": "2.3.8",
+        "Font-Awesome": "4.6.3",
+        "malihu-custom-scrollbar-plugin" : "3.1.4"
+    }
+}
